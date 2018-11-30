@@ -69,7 +69,7 @@ h1 {
     font-size: 15px;
 }
 
-ul { list-style: none; }
+ul { list-style: none; margin-bottom: 100px; }
 
 li {
     font-weight: bold;
